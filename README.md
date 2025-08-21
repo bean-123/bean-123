@@ -20,6 +20,4 @@
 [![Email](https://img.shields.io/badge/Email-amy.platt%40hotmail.com-blue?style=flat&logo=gmail)](mailto:amy.platt@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amy-platt-2213a0358)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=bean-123&icon=5&color=0)](https://visitcount.itsvg.in)

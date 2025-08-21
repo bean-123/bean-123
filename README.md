@@ -3,8 +3,8 @@
 
 🌱 I’m a programming student at **Business College Helsinki**  
 🎓 Heading toward a **Master’s in Software Engineering** at Metropolia (2026)  
-💻 Currently learning **Python** and **C++** on my own  
-🎨 Also exploring **JavaScript, CSS, HTML, React, and UI/UX design**  
+💻 Currently learning **JavaScript, CSS, HTML, React, and UI/UX design**  
+🎨 Also exploring **Python and C++** on my own  
 
 ---
 

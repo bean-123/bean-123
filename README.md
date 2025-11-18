@@ -2,7 +2,7 @@
 
 
 🌱 I’m a programming student at **Business College Helsinki**  
-🎓 Heading toward a **Master’s in Software Engineering** at Metropolia (2026)  
+🎓 Heading toward a **Software Engineering** at Metropolia (2026)  
 💻 Currently learning **JavaScript, CSS, HTML, React, and UI/UX design**  
 🎨 Also exploring **Python and C++** on my own  
 

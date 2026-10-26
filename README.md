@@ -1,23 +1,39 @@
 ## Hi there, I'm Amy! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" />
 
 
-🎓 Completed my Software Developer degree at Business College Helsinki
+🎓 Software Developer — graduated from Business College Helsinki.
 
-🌱 Now pursuing a Software Engineering degree at Metropolia, studying online so i can work full time
+🌱 Currently pursuing a Software Engineering degree at Metropolia University of Applied Sciences, studying online alongside my career.
 
-💼 Recently completed an internship at Ellarion Tales, building a full-stack LARP event management platform (CMS, registration system, automated email workflows, Stripe payments)
+💻 Completed an internship at Ellarion Tales, contributing to a full-stack LARP event management platform with a CMS, registration system, automated email workflows, and Stripe test payments.
 
-💻 Currently learning C++, Python, JavaScript, CSS, HTML, React, and UI/UX design
+🔐 Exploring cybersecurity, Linux system administration, and security hardening alongside software development.
 
-🎨 Also exploring cybersecurity on my own
+🚀 Currently building my skills in C++, Python, JavaScript, React, and system administration.
 
-## 🛠️ Tech & Tools
+🛠️ Tech & Tools
 
-- **Languages:** JavaScript, Python, C++, SQL and a little bit of PHP
-- **Frontend:** HTML, CSS, React
-- **Backend & Infra:** REST APIs, Docker, AWS, CI/CD, WordPress
-- **Design:** UI/UX principles, Figma
-- **Version control:** Git & GitHub
+Languages: JavaScript, TypeScript, Python, SQL, C++, PHP
+
+Frontend: React, HTML, CSS
+
+Backend & APIs: REST APIs, Node.js fundamentals
+
+Databases: SQL, Supabase
+
+Tools & Platforms: Git, GitHub, VS Code, Figma, WordPress
+
+Systems & Security: Linux, Red Hat Enterprise Linux, Bash, information security fundamentals
+
+Other: UI/UX design, responsive web development
+
+📚 Currently Learning
+
+Linux system administration and security hardening through Red Hat Academy
+
+C++ programming and software engineering fundamentals
+
+Information security and practical cybersecurity
 
 ---
 

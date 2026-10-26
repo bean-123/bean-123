@@ -13,27 +13,27 @@
 
 🛠️ Tech & Tools
 
-Languages: JavaScript, TypeScript, Python, SQL, C++, PHP
+- Languages: JavaScript, TypeScript, Python, SQL, C++, PHP
 
-Frontend: React, HTML, CSS
+- Frontend: React, HTML, CSS
 
-Backend & APIs: REST APIs, Node.js fundamentals
+- Backend & APIs: REST APIs, Node.js fundamentals
 
-Databases: SQL, Supabase
+- Databases: SQL, Supabase
 
-Tools & Platforms: Git, GitHub, VS Code, Figma, WordPress
+- Tools & Platforms: Git, GitHub, VS Code, Figma, WordPress
 
-Systems & Security: Linux, Red Hat Enterprise Linux, Bash, information security fundamentals
+- Systems & Security: Linux, Red Hat Enterprise Linux, Bash, information security fundamentals
 
-Other: UI/UX design, responsive web development
+- Other: UI/UX design, responsive web development
 
 📚 Currently Learning
 
-Linux system administration and security hardening through Red Hat Academy
+- Linux system administration and security hardening through Red Hat Academy
 
-C++ programming and software engineering fundamentals
+- C++ programming and software engineering fundamentals
 
-Information security and practical cybersecurity
+- Information security and practical cybersecurity
 
 ---
 
